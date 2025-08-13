@@ -1,2 +1,2 @@
 # Ayesha-Portfoilo
-My portfolio showcasing HTML, CSS and data base project
+UI/UX Designer & Front-End Developer | Showcasing HTML, CSS, PHP & Database Projects
